@@ -1,0 +1,13 @@
+opencv-python
+glob2
+Pillow
+numpy
+pandas
+seaborn
+matplotlib
+scikit-image
+nilearn
+keras
+tensorflow
+setuptools
+synapseclient
